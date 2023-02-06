@@ -31,7 +31,7 @@
 // let colour = "Brown"
 // console.log (`My name is ${name}. My age is ${age}. My colour is ${colour}`)
 
-let breakFast = "toast"
-let lunch = "sandwich"
-let dinner = "chicken"
-console.log(`I had ${breakFast} in the morning. for lunch i had ${lunch}. For dinner i will have ${dinner}`)
+// let breakFast = "toast"
+// let lunch = "sandwich"
+// let dinner = "chicken"
+// console.log(`I had ${breakFast} in the morning. for lunch i had ${lunch}. For dinner i will have ${dinner}`)
